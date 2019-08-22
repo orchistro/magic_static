@@ -1,5 +1,7 @@
 # Magic static
 
+https://en.cppreference.com/w/cpp/language/storage_duration#Static_local_variables
+
 ## Objective
 Checking if other threads block when the static variable is in the middle of being instantiated.
 
